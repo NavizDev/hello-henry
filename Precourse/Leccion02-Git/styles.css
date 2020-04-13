@@ -1,0 +1,27 @@
+h1 {
+  color: red;
+}
+img {
+  width: 400px;
+  height: 290px;
+}
+#thirdDiv {
+  height: 600px;
+  width: 500px;
+  background-color: cyan;
+  margin: 50px;
+  border: 1px solid black;
+  margin: 10px auto;
+}
+#spanId {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+#thirdDiv ul li {
+  list-style-type: none;
+}
+
+.divClass {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
